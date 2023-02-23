@@ -1,6 +1,7 @@
 # BlackJack_C
 My Blackjack game coded in C++ dating from 2021
 It was uploaded to my github account on February 23rd 2023.
+This game can still be improved code-wise and UI-wise.
 
 HOW TO USE BLACKJACK FINAL.EXE 
 			by Vincent VOISIN
